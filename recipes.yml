@@ -1,0 +1,27 @@
+Pulao:
+  Rice: 0.65
+  Vegetables: 0.25
+  Oil: 0.04
+  Salt: 0.01
+  Spices: 0.05
+
+Roti:
+  Wheat Flour: 0.85
+  Oil/Ghee: 0.10
+  Salt: 0.03
+  Water: 0.02
+
+Khichdi:
+  Rice: 0.50
+  Moong Dal: 0.30
+  Spices: 0.05
+  Salt: 0.02
+  Ghee: 0.05
+  Water: 0.08
+
+Upma:
+  Sooji (Rava): 0.60
+  Vegetables: 0.25
+  Oil: 0.08
+  Spices: 0.04
+  Salt: 0.03
